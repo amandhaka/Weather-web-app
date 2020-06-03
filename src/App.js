@@ -1,13 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-
+import WeatherApp from './weatherApp/MainWeatherApp.js'
 function App() {
   return (
     <div className="App">
-      <div className="card" style={{height:"50vh"}}>
-        Hello
-      </div>
+        <WeatherApp/>
     </div>
   );
 }
