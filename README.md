@@ -2,7 +2,7 @@
 
 Hey, I built this small react web-app with Open Weather Map API to check real time weather of every place in world.
 
-Check it out [here]("https://amandhaka.github.io/Weather-web-app/")
+Check it out [here](https://amandhaka.github.io/Weather-web-app/).
 
 ![Demo](./src/Assets/Sorting.gif)
 
