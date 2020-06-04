@@ -1,8 +1,11 @@
 # What's the weather today?
 
 Hey, I built this small react web-app with Open Weather Map API to check real time weather of every place in world.
+
 Check it out [here]("https://amandhaka.github.io/Weather-web-app/")
-[!Demo]("./src/Assets/Sorting.gif")
+
+![Demo](./src/Assets/Sorting.gif)
+
 Still many functionalities left to be added. Stuff below this line is created by React app.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
