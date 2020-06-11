@@ -6,7 +6,9 @@ Check it out [here](https://amandhaka.github.io/Weather-web-app/).
 
 ![Demo](./src/Assets/Sorting.gif)
 
+API used: https://openweathermap.org/current
 Still many functionalities left to be added. Stuff below this line is created by React app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
